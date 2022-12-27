@@ -1,0 +1,8 @@
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.AssemblyReference.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Lista 05\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb
